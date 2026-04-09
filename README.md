@@ -33,6 +33,6 @@
 
 ### 🖥️ Workspace Spec
 
-![HP](https://img.shields.io/badge/HP-0096D6?style=for-the-badge&logo=hp&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![MacBook](https://img.shields.io/badge/MacBook-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Intel](https://img.shields.io/badge/Intel-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
