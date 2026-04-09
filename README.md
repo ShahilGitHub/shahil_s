@@ -28,13 +28,3 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-
-### 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShahilGitHub&show_icons=true&theme=radical" alt="shahil stats"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShahilGitHub&theme=radical" alt="shahil streak"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahilGitHub&layout=compact&theme=radical" alt="top langs"/>
-</p>
