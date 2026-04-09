@@ -25,7 +25,7 @@
 ### 💻 I code in
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode,figma,py" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,mysql,figma,py" />
 </p>
 
 ---
