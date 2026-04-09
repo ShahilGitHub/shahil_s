@@ -14,7 +14,7 @@
 ### 💻 I code in
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,nextjs,redux,tailwindcss,jquery,bootstrap,react,mysql,nodejs,py" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,nextjs,redux,tailwindcss,jquery,aws,bootstrap,react,mysql,nodejs,py" />
 </p>
 
 ---
