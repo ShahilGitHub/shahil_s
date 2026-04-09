@@ -22,3 +22,26 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
+### 💻 I code in
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode,figma,py" />
+</p>
+
+---
+
+### 🛠️ IDE and Tools I Use
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,git,figma,github" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/NETLIFY-%2300C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+</p>
+
+---
+
+### 🖥️ Workspace Spec
+
+![HP](https://img.shields.io/badge/HP-0096D6?style=for-the-badge&logo=hp&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Intel](https://img.shields.io/badge/Intel-0071C5?style=for-the-badge&logo=intel&logoColor=white)
