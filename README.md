@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shahil</h1>
 <h3 align="center">A Passionate Software Developer from Coimbatore 🇮🇳</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ---
 
@@ -25,6 +25,8 @@
   <img src="https://skillicons.dev/icons?i=vscode,git,figma,github" />
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/NETLIFY-%2300C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 </p>
 
 ---
