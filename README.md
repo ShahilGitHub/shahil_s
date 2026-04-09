@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shahil</h1>
-<h3 align="center">A Passionate Frontend Developer from Coimbatore 🇮🇳</h3>
+<h3 align="center">A Passionate Software Developer from Coimbatore 🇮🇳</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-- 🔭 I'm currently working on **Web Projects**
-- 🌱 I'm currently learning **React & JavaScript**
-- 💬 Ask me about **HTML, CSS, JavaScript**
-- 📫 Reach me at **your-email@gmail.com**
-- ⚡ Fun fact: I love building cool UIs!
 
 ---
 
